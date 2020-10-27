@@ -22,7 +22,7 @@ const paths = {
     output: 'dist/static/css/'
   },
   copy: {
-    input: 'src/copy/*',
+    input: 'src/copy/**/*.*',
     output: 'dist/static/'
   }
 };
